@@ -1,4 +1,4 @@
-Copywriter
+Copywriter  
 Location: New York, NY
 
 Job Description
@@ -35,5 +35,5 @@ Your nasty (in a good way) resume
 - short list of cherished malapropisms
 - sample Vimeo blog post that touches on three things: the value of Vimeo Plus; one recent Internet meme of your choosing; and pizza.
 
-A little about us:
+A little about us:  
 Vimeo is the high-quality video platform for creative people around the world. Vimeo was founded in 2004 by filmmakers who wanted a fun and easy way to share their work and moments from their lives. We remain true to that mission by continually striving to help people with a wide range of passions share the things they create and care about. Today, Vimeo reaches a monthly audience of over 90 million creators and viewers — and we're growing bigger every day. Vimeo is made with love by a highly ambitious, ridiculously innovative, and certifiably hilarious team based in New York City, and we'd love for you to be a part of it.
