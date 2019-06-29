@@ -27,9 +27,9 @@ Skills & Knowledge You Should Possess:
 - The knowhow to put together a copy deck that designers and other humans can understand.
 - A portfolio of ad copy, brand copy, UX/instructional copy, and maybe even some editorial flimflammery.
 - The ability to explain the difference between i.e. and e.g. (yes, there will be a quiz).
-- To apply, please send us these things:
 
-Your nasty (in a good way) resume
+To apply, please send us these things:
+- Your nasty (in a good way) resume
 - non-generic cover letter
 - link to your portfolio or blog or whatever digital repository you use to stockpile accomplishments
 - short list of cherished malapropisms
