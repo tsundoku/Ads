@@ -1,7 +1,7 @@
-###SUMMARY###
+### SUMMARY
 The Copywriter produces bold, strategic, persuasive messages in all types of media and modifies existing copy to clarify meaning and conform to client brand guidelines/style guides.
 
-###Major Responsibilities:###
+### Major Responsibilities:
 
 **Copywriting**
 
@@ -26,23 +26,23 @@ Maintain interaction with creative staff and client services on project requirem
 Responsible for contributing to creative services profitability
 Perform administrative duties on a timely basis as required
 
-###Internal Agency Responsibilities:###
+### Internal Agency Responsibilities:
 The Copywriter has specific internal agency responsibilities.
 
 - Training – Partake in structured and unstructured training opportunities to learn the next level up and what further learning is needed to be successful
 - Administration – Adhere to and support agency/departmental policies and systems
 
-###Agency Corporate Responsibilities:###
+### Agency Corporate Responsibilities:
 The Copywriter has a responsibility to the corporation as a whole.
 
 - Agency Representative in the Community – Represent Yamamoto positively in the business and advertising communities
 - Agency Growth – Assist in pursuing new opportunities with assigned clients and new business initiatives
 - Agency Commitment – Demonstrate loyalty to the agency
 - Agency Culture – Demonstrate agency core values: curious, creative and courageous
-    - Curious - We never stop learning or exploring.
-    - Creative - We light up the room with engaging imagination.
-    - Courageous - We are fearless and are up for any challenge.
+  - Curious - We never stop learning or exploring.
+  - Creative - We light up the room with engaging imagination.
+  - Courageous - We are fearless and are up for any challenge.
 
-###Required/Desired Qualifications:###
+### Required/Desired Qualifications:
 1–5 years in the industry  
 Creative portfolio demonstrating creative experience across all media
