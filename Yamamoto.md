@@ -1,3 +1,5 @@
+(Yamamoto job ad, circa May 2019)
+
 ### SUMMARY
 The Copywriter produces bold, strategic, persuasive messages in all types of media and modifies existing copy to clarify meaning and conform to client brand guidelines/style guides.
 
