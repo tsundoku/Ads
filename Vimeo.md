@@ -1,3 +1,5 @@
+(Vimeo job ad, circa May 2013)
+
 Copywriter  
 Location: New York, NY
 
