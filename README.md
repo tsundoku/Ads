@@ -1,1 +1,1 @@
-# Ads
+# Collection of job ads
